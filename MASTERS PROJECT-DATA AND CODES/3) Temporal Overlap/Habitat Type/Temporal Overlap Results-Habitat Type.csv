@@ -1,0 +1,19 @@
+,HabitatType,Species,Total Sightings,Overlap,LowerCI,UpperCI
+1,Amenity Grassland,Human,4680,1,1,1
+2,Artificial Structure,Human,2862,1,1,1
+3,Broadleaved Woodland,Human,3349,1,1,1
+4,Dense Scrub,Human,501,1,1,1
+5,Hedgerows,Human,5647,1,1,1
+6,Tall Herbs,Human,2177,1,1,1
+7,Amenity Grassland,Fox,115,0.046265529,0.019210101,0.075057439
+8,Artificial Structure,Fox,221,0.100439778,0.072669212,0.129917012
+9,Broadleaved Woodland,Fox,494,0.080668208,0.065222676,0.097149401
+10,Dense Scrub,Fox,269,0.065385813,0.039584529,0.093386607
+11,Hedgerows,Fox,406,0.043064646,0.030140731,0.056036568
+12,Tall Herbs,Fox,112,0.13051398,0.091473242,0.169076025
+13,Amenity Grassland,Hedgehog,61,0.056569922,0.025704148,0.089718722
+14,Artificial Structure,Hedgehog,45,0.090785516,0.04060201,0.141261094
+15,Broadleaved Woodland,Hedgehog,92,0.054508309,0.023501348,0.08508272
+16,Dense Scrub,Hedgehog,116,0.024507526,0.001037975,0.051900006
+17,Hedgerows,Hedgehog,50,0.070374532,0.02741132,0.116108379
+18,Tall Herbs,Hedgehog,5,NA,NA,NA
